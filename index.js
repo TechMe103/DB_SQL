@@ -23,7 +23,7 @@ const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   database: 'delta_app',
-  password: 'S@nika132007'
+  password: //password
 });
 
 // Function to generate a random user
