@@ -140,5 +140,3 @@ process.on('SIGINT', () => {
 
 
 
-//HW   1) create form to add a new user to the database
-//     2) create form to delete a user from database if they enter correct email id and password 
